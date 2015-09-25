@@ -4,148 +4,382 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>gold_p1_n.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{159,2},{90,92}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,3},{90,92}}</string>
-                <key>sourceSize</key>
-                <string>{90,98}</string>
-            </dict>
-            <key>gold_p1_n_s.png</key>
+            <key>gold_p-1.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{2,2},{90,155}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{90,155}}</string>
                 <key>sourceSize</key>
                 <string>{90,155}</string>
             </dict>
-            <key>gold_p1_s_1.png</key>
+            <key>gold_p-1_5.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{253,2},{90,92}}</string>
+                <string>{{2,159},{78,95}}</string>
+                <key>offset</key>
+                <string>{-1,1}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{5,0},{78,95}}</string>
+                <key>sourceSize</key>
+                <string>{90,97}</string>
+            </dict>
+            <key>gold_p-1_6.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{82,159},{78,95}}</string>
+                <key>offset</key>
+                <string>{-1,1}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{5,0},{78,95}}</string>
+                <key>sourceSize</key>
+                <string>{90,97}</string>
+            </dict>
+            <key>gold_p-2.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{94,2},{90,155}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,3},{90,92}}</string>
+                <string>{{0,0},{90,155}}</string>
                 <key>sourceSize</key>
-                <string>{90,98}</string>
+                <string>{90,155}</string>
             </dict>
-            <key>gold_p1_s_2.png</key>
+            <key>gold_p-2_5.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{347,2},{72,90}}</string>
+                <string>{{162,159},{78,95}}</string>
                 <key>offset</key>
-                <string>{3,0}</string>
+                <string>{-1,1}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{12,4},{72,90}}</string>
+                <string>{{5,0},{78,95}}</string>
                 <key>sourceSize</key>
-                <string>{90,98}</string>
+                <string>{90,97}</string>
             </dict>
-            <key>gold_p1_s_3.png</key>
+            <key>gold_p-2_6.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{495,2},{36,90}}</string>
+                <string>{{242,159},{78,95}}</string>
                 <key>offset</key>
-                <string>{4,0}</string>
+                <string>{-1,1}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{31,4},{36,90}}</string>
+                <string>{{5,0},{78,95}}</string>
                 <key>sourceSize</key>
-                <string>{90,98}</string>
+                <string>{90,97}</string>
             </dict>
-            <key>gold_p1_s_4.png</key>
+            <key>gold_p-3.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{571,2},{14,90}}</string>
-                <key>offset</key>
-                <string>{4,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{42,4},{14,90}}</string>
-                <key>sourceSize</key>
-                <string>{90,98}</string>
-            </dict>
-            <key>gold_p1_s_5.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{533,2},{36,90}}</string>
-                <key>offset</key>
-                <string>{2,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{29,4},{36,90}}</string>
-                <key>sourceSize</key>
-                <string>{90,98}</string>
-            </dict>
-            <key>gold_p1_s_6.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{421,2},{72,90}}</string>
-                <key>offset</key>
-                <string>{1,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{10,4},{72,90}}</string>
-                <key>sourceSize</key>
-                <string>{90,98}</string>
-            </dict>
-            <key>gold_p1_s_7.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{253,2},{90,92}}</string>
+                <string>{{186,2},{90,155}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,3},{90,92}}</string>
+                <string>{{0,0},{90,155}}</string>
                 <key>sourceSize</key>
-                <string>{90,98}</string>
+                <string>{90,155}</string>
             </dict>
-            <key>gold_p1_s_8.png</key>
+            <key>gold_p-3_5.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{587,2},{78,94}}</string>
+                <string>{{322,159},{78,95}}</string>
                 <key>offset</key>
-                <string>{-1,0}</string>
+                <string>{-1,1}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{5,0},{78,95}}</string>
+                <key>sourceSize</key>
+                <string>{90,97}</string>
+            </dict>
+            <key>gold_p-3_6.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{402,159},{78,95}}</string>
+                <key>offset</key>
+                <string>{-1,1}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{5,0},{78,95}}</string>
+                <key>sourceSize</key>
+                <string>{90,97}</string>
+            </dict>
+            <key>gold_p-5.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{278,2},{90,155}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{90,155}}</string>
+                <key>sourceSize</key>
+                <string>{90,155}</string>
+            </dict>
+            <key>gold_p-5_5.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{482,159},{78,95}}</string>
+                <key>offset</key>
+                <string>{-1,1}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{5,0},{78,95}}</string>
+                <key>sourceSize</key>
+                <string>{90,97}</string>
+            </dict>
+            <key>gold_p-5_6.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{562,159},{78,95}}</string>
+                <key>offset</key>
+                <string>{-1,1}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{5,0},{78,95}}</string>
+                <key>sourceSize</key>
+                <string>{90,97}</string>
+            </dict>
+            <key>gold_p1.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{370,2},{90,155}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{90,155}}</string>
+                <key>sourceSize</key>
+                <string>{90,155}</string>
+            </dict>
+            <key>gold_p1_5.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{642,159},{78,95}}</string>
+                <key>offset</key>
+                <string>{-1,1}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{5,0},{78,95}}</string>
+                <key>sourceSize</key>
+                <string>{90,97}</string>
+            </dict>
+            <key>gold_p1_6.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{722,159},{78,95}}</string>
+                <key>offset</key>
+                <string>{-1,1}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{5,0},{78,95}}</string>
+                <key>sourceSize</key>
+                <string>{90,97}</string>
+            </dict>
+            <key>gold_p2.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{462,2},{90,155}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{90,155}}</string>
+                <key>sourceSize</key>
+                <string>{90,155}</string>
+            </dict>
+            <key>gold_p2_5.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{738,2},{78,95}}</string>
+                <key>offset</key>
+                <string>{-1,1}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{5,0},{78,95}}</string>
+                <key>sourceSize</key>
+                <string>{90,97}</string>
+            </dict>
+            <key>gold_p2_6.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{818,2},{78,95}}</string>
+                <key>offset</key>
+                <string>{-1,1}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{5,0},{78,95}}</string>
+                <key>sourceSize</key>
+                <string>{90,97}</string>
+            </dict>
+            <key>gold_p3.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{554,2},{90,155}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{90,155}}</string>
+                <key>sourceSize</key>
+                <string>{90,155}</string>
+            </dict>
+            <key>gold_p3_5.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{802,153},{78,95}}</string>
+                <key>offset</key>
+                <string>{-1,1}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{5,0},{78,95}}</string>
+                <key>sourceSize</key>
+                <string>{90,97}</string>
+            </dict>
+            <key>gold_p3_6.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{898,2},{78,95}}</string>
+                <key>offset</key>
+                <string>{-1,1}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{5,0},{78,95}}</string>
+                <key>sourceSize</key>
+                <string>{90,97}</string>
+            </dict>
+            <key>gold_p5.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{646,2},{90,155}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{90,155}}</string>
+                <key>sourceSize</key>
+                <string>{90,155}</string>
+            </dict>
+            <key>gold_p5_5.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{978,2},{78,95}}</string>
+                <key>offset</key>
+                <string>{-1,1}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{5,0},{78,95}}</string>
+                <key>sourceSize</key>
+                <string>{90,97}</string>
+            </dict>
+            <key>gold_p5_6.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{882,137},{78,95}}</string>
+                <key>offset</key>
+                <string>{-1,1}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{5,0},{78,95}}</string>
+                <key>sourceSize</key>
+                <string>{90,97}</string>
+            </dict>
+            <key>gold_p_0.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{962,99},{72,91}}</string>
+                <key>offset</key>
+                <string>{3,1}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{5,2},{78,94}}</string>
+                <string>{{12,2},{72,91}}</string>
                 <key>sourceSize</key>
-                <string>{90,98}</string>
+                <string>{90,97}</string>
             </dict>
-            <key>gold_p1_s_9.png</key>
+            <key>gold_p_1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{683,2},{78,94}}</string>
+                <string>{{738,99},{36,91}}</string>
                 <key>offset</key>
-                <string>{-1,0}</string>
+                <string>{4,1}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{5,2},{78,94}}</string>
+                <string>{{31,2},{36,91}}</string>
                 <key>sourceSize</key>
-                <string>{90,98}</string>
+                <string>{90,97}</string>
+            </dict>
+            <key>gold_p_2.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{738,137},{14,91}}</string>
+                <key>offset</key>
+                <string>{4,1}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{42,2},{14,91}}</string>
+                <key>sourceSize</key>
+                <string>{90,97}</string>
+            </dict>
+            <key>gold_p_3.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{831,99},{36,91}}</string>
+                <key>offset</key>
+                <string>{2,1}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{29,2},{36,91}}</string>
+                <key>sourceSize</key>
+                <string>{90,97}</string>
+            </dict>
+            <key>gold_p_4.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{962,173},{72,91}}</string>
+                <key>offset</key>
+                <string>{1,1}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{10,2},{72,91}}</string>
+                <key>sourceSize</key>
+                <string>{90,97}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -155,9 +389,9 @@
             <key>realTextureFileName</key>
             <string>gSprites.png</string>
             <key>size</key>
-            <string>{779,94}</string>
+            <string>{1058,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:7de7d783075440094dde4045f8b05a16:14ee169207b1a3ad81c1159931653b43:6059f2e151ca252af15be5b1fdbd8cf4$</string>
+            <string>$TexturePacker:SmartUpdate:c8fc4acd02718f63754256e90100cb82:77b7cfa4e3c6ebf4ce861dfad9b4e31a:783884ec1a722fb39c74ecba19da48fa$</string>
             <key>textureFileName</key>
             <string>gSprites.png</string>
         </dict>
