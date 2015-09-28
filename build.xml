@@ -175,6 +175,7 @@
                 <file name="src/StartScene.js"/>
                 <file name="src/PlayScene.js"/>
                 <file name="src/GoldSprite.js"/>
+                <file name="src/loading.js"/>
                 <file name="main.js"/>
 
             </sources>
