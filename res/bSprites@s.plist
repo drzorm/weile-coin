@@ -7,80 +7,80 @@
             <key>activityRuleDetial.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1512,0},{480,518}}</string>
+                <string>{{481,653},{361,389}}</string>
                 <key>offset</key>
-                <string>{0,2}</string>
+                <string>{0,1}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{3,1},{480,518}}</string>
+                <string>{{2,1},{361,389}}</string>
                 <key>sourceSize</key>
-                <string>{486,524}</string>
+                <string>{365,393}</string>
             </dict>
             <key>background.jpg</key>
             <dict>
                 <key>frame</key>
-                <string>{{0,0},{640,1138}}</string>
+                <string>{{0,0},{480,854}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{640,1138}}</string>
+                <string>{{0,0},{480,854}}</string>
                 <key>sourceSize</key>
-                <string>{640,1138}</string>
+                <string>{480,854}</string>
             </dict>
             <key>gameOverPanel.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{641,589},{640,688}}</string>
-                <key>offset</key>
-                <string>{0,2}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{640,688}}</string>
-                <key>sourceSize</key>
-                <string>{640,692}</string>
-            </dict>
-            <key>gameRule.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1512,481},{480,442}}</string>
-                <key>offset</key>
-                <string>{-1,1}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{1,1},{480,442}}</string>
-                <key>sourceSize</key>
-                <string>{484,446}</string>
-            </dict>
-            <key>rank.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{641,0},{588,870}}</string>
-                <key>offset</key>
-                <string>{-1,1}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{588,870}}</string>
-                <key>sourceSize</key>
-                <string>{590,872}</string>
-            </dict>
-            <key>submitStar.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1330,924},{640,542}}</string>
+                <string>{{923,0},{480,517}}</string>
                 <key>offset</key>
                 <string>{0,1}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{640,542}}</string>
+                <string>{{0,0},{480,517}}</string>
                 <key>sourceSize</key>
-                <string>{640,544}</string>
+                <string>{480,519}</string>
+            </dict>
+            <key>gameRule.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{871,653},{361,333}}</string>
+                <key>offset</key>
+                <string>{-1,1}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{361,333}}</string>
+                <key>sourceSize</key>
+                <string>{363,335}</string>
+            </dict>
+            <key>rank.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{481,0},{441,652}}</string>
+                <key>offset</key>
+                <string>{-1,1}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{441,652}}</string>
+                <key>sourceSize</key>
+                <string>{443,654}</string>
+            </dict>
+            <key>submitStar.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1205,518},{480,406}}</string>
+                <key>offset</key>
+                <string>{0,1}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{480,406}}</string>
+                <key>sourceSize</key>
+                <string>{480,408}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -88,13 +88,13 @@
             <key>format</key>
             <integer>2</integer>
             <key>realTextureFileName</key>
-            <string>bSprites.png</string>
+            <string>bSprites@s.png</string>
             <key>size</key>
-            <string>{2030,1466}</string>
+            <string>{1611,1014}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:4b383c0ba238c1b66e406c68251038d0:eb3f4c9d8a3207873bbcf5ace2f375a1:91c6ee6ee4774e5ff4232886e63b1088$</string>
+            <string>$TexturePacker:SmartUpdate:da28b489226ce55c30813a7dcde9bdc7:eb3f4c9d8a3207873bbcf5ace2f375a1:323c17b1ed15dacde4dbeafeb2830178$</string>
             <key>textureFileName</key>
-            <string>bSprites.png</string>
+            <string>bSprites@s.png</string>
         </dict>
     </dict>
 </plist>
